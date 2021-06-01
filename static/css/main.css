@@ -1,0 +1,21 @@
+body{ 
+    margin: 0;
+    font-family: sans-serif;
+}
+table{
+    align-content: center;
+}
+th{
+    text-align: center;
+    padding: 25px;
+}
+td{
+    text-align: center;
+    padding: 25px;
+}
+form{
+    text-align: center;
+}
+.form{
+    margin-top: 20px;
+}
